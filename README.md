@@ -1,6 +1,5 @@
 ## Hello there
-I'm Adriano Panella, an aspiring Fullstack developer.
-
+I'm Adriano panella a Fullstack developer Junior, I did a very intensive training course at Exolab, this gave me the basis to start my career as a programmer. Now all I am looking for is the opportunity to put this knowledge to use within a team, with the aim of honing and extending these skills over time. What I have to offer is great determination, a truly social character and my professionalism. Until a few years ago I would never have believed that programming could be such an interesting thing, I stumbled over it like a stone. I have never been so glad to have hit the snout.
 ## Social Media
 [![Static Badge](https://img.shields.io/badge/Adriano%20Panella%20-%20gray?logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/adriano-panella&color=gray)](https://www.linkedin.com/in/adriano-panella/)
 [![Static Badge](https://img.shields.io/badge/My%20portfolio%20-%20gray?logo=html5&logoColor=white&labelColor=orange&color=gray&link=https%3A%2F%2Fadrianopanella.github.io%2F)](https://adrianopanella.github.io/)
